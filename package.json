@@ -1,0 +1,12 @@
+{
+  "name": "alpha-overlay",
+  "version": "1.0.0",
+  "description": "Click-through desktop overlay for transparent WebM/MOV videos",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^45.1.0"
+  }
+}

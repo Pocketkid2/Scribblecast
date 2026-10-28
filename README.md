@@ -1,4 +1,4 @@
-# alpha-overlay
+# Scribblecast
 
 Turn any video into black line art on a transparent background, then play it as a click-through overlay on top of your desktop.
 
